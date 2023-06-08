@@ -1,0 +1,10 @@
+{
+  "server_PORT": "aip_PORT",
+  "dbUrl": "aip_dbUrl",
+  "dbName": "aip_dbName",
+  "dbUserName": "aip_dbUserName",
+  "dbPassword": "aip_dbPassword",
+  "jwtPrivatekey": "aip_jwtPrivateKey",
+  "nuAipUserName": "aip_nuAipUserName",
+  "nuAipPassword": "aip_nuAipPassword"
+}
