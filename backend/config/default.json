@@ -1,0 +1,10 @@
+{
+  "server_PORT": "",
+  "dbUrl": "",
+  "dbName": "",
+  "dbUserName": "",
+  "dbPassword": "",
+  "jwtPrivatekey": "",
+  "nuAipUserName": "",
+  "nuAipPassword": ""
+}
